@@ -1,0 +1,16 @@
+body
+{
+    margin: 15px;
+}
+#btn 
+{
+    color: white;
+    size: 50px;
+}
+canvas
+{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
